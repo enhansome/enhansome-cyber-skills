@@ -150,7 +150,7 @@
             "last_commit": "2026-08-19T13:12:21Z",
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13538
+            "stars": 13543
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8232
+            "stars": 8238
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5679
+            "stars": 5680
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2022-08-26T22:56:18Z",
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4056
+            "stars": 4057
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:23.119Z",
+    "last_updated": "2026-08-26T00:26:35.863Z",
     "original_repository": "joe-shenouda/awesome-cyber-skills",
     "original_repository_id": 78006975,
     "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
