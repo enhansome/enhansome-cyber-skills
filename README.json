@@ -225,7 +225,7 @@
             "last_commit": "2026-03-12T06:57:44Z",
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8243
+            "stars": 8244
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-02-13T14:49:38Z",
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5681
+            "stars": 5683
           }
         },
         {
@@ -473,9 +473,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:55.449Z",
-    "original_repository": "joe-shenouda/awesome-cyber-skills",
-    "original_repository_id": 78006975,
+    "last_updated": "2026-08-27T11:34:01.131Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 78006975,
+      "language": null,
+      "last_commit": "2024-07-02T03:39:39Z",
+      "owner": "joe-shenouda",
+      "repo": "awesome-cyber-skills",
+      "stars": 4638
+    },
     "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
     "enhanced_repository": "enhansome/enhansome-cyber-skills",
     "enhanced_repository_description": null,
