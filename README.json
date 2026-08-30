@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13559,
+            "stars": 13568,
             "topics": [
               "dvwa",
               "hacking",
@@ -312,7 +312,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1140,
+            "stars": 1141,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -382,7 +382,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1038,
+            "stars": 1039,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3085,
+            "stars": 3087,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -480,7 +480,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5684,
+            "stars": 5689,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4063,
+            "stars": 4064,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -589,7 +589,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5834,
+            "stars": 5835,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:38.933Z",
+    "last_updated": "2026-08-30T01:47:13.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
