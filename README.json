@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13568,
+            "stars": 13577,
             "topics": [
               "dvwa",
               "hacking",
@@ -333,7 +333,7 @@
             "open_issues": 150,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8247,
+            "stars": 8249,
             "topics": [
               "active-directory",
               "ansible",
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3087,
+            "stars": 3088,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -480,7 +480,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5689,
+            "stars": 5693,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4064,
+            "stars": 4065,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:47:13.030Z",
+    "last_updated": "2026-08-31T01:41:34.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -737,7 +737,7 @@
       "open_issues": 8,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4643,
+      "stars": 4645,
       "topics": []
     },
     "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
