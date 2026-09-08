@@ -52,7 +52,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A collection of web pages, vulnerable to command injection flaws",
+            "description": "A collection of web pages, vulnerable to command injection flaws.",
             "homepage": null,
             "id": 38447681,
             "language": "PHP",
@@ -209,11 +209,11 @@
             "id": 9791525,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-19T13:12:21Z",
+            "last_commit": "2026-09-07T14:44:27Z",
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13616,
+            "stars": 13625,
             "topics": [
               "dvwa",
               "hacking",
@@ -333,7 +333,7 @@
             "open_issues": 150,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8287,
+            "stars": 8293,
             "topics": [
               "active-directory",
               "ansible",
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3089,
+            "stars": 3092,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -522,7 +522,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6041,
+            "stars": 6042,
             "topics": [
               "ctf",
               "exploitation",
@@ -648,24 +648,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A very vulnerable web site written in NodeJS with the purpose of have a project with identified vulnerabilities to test the quality of security analyzers tools tools",
+            "description": "dvwa-nodejs — Damn Vulnerable Node.js Application: a real shop (NodeBazaar) intentionally full of security bugs. 14 labs, OWASP Top 10:2025, SAST benchmark. Node.js port of DVWA.",
             "homepage": null,
             "id": 60779097,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2024-08-20T15:34:11Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-07T22:31:36Z",
+            "open_issues": 5,
             "owner": "cr0hn",
             "repo": "vulnerable-node",
             "stars": 488,
             "topics": [
-              "analyzer",
               "common-vulnerabilities",
-              "identified-vulnerabilities",
+              "dvwa",
+              "expressjs",
               "nodejs",
-              "security-analyzers",
-              "vulnerability",
-              "whitebox"
+              "pentest-lab",
+              "sast",
+              "security-testing",
+              "security-training",
+              "vulnerability"
             ]
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -725,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:20:35.043Z",
+    "last_updated": "2026-09-08T01:29:50.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
