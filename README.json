@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13635,
+            "stars": 13647,
             "topics": [
               "dvwa",
               "hacking",
@@ -333,7 +333,7 @@
             "open_issues": 151,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8301,
+            "stars": 8309,
             "topics": [
               "active-directory",
               "ansible",
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3093,
+            "stars": 3094,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -480,7 +480,7 @@
             "open_issues": 75,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5702,
+            "stars": 5704,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4068,
+            "stars": 4069,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -589,7 +589,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5839,
+            "stars": 5840,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:32:11.308Z",
+    "last_updated": "2026-09-11T01:31:19.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
