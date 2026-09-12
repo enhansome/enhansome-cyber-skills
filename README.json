@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13647,
+            "stars": 13651,
             "topics": [
               "dvwa",
               "hacking",
@@ -312,7 +312,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1142,
+            "stars": 1143,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -333,7 +333,7 @@
             "open_issues": 151,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8309,
+            "stars": 8312,
             "topics": [
               "active-directory",
               "ansible",
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3094,
+            "stars": 3095,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -477,7 +477,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2025-02-13T14:49:38Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
             "stars": 5704,
@@ -547,7 +547,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4069,
+            "stars": 4070,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:31:19.399Z",
+    "last_updated": "2026-09-12T01:37:43.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -739,7 +739,7 @@
       "open_issues": 8,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4668,
+      "stars": 4669,
       "topics": []
     },
     "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
