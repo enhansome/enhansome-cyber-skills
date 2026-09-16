@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 965,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -103,7 +103,7 @@
             "open_issues": 1,
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 880,
+            "stars": 881,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13667,
+            "stars": 13672,
             "topics": [
               "dvwa",
               "hacking",
@@ -330,10 +330,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-03-12T06:57:44Z",
-            "open_issues": 151,
+            "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8318,
+            "stars": 8323,
             "topics": [
               "active-directory",
               "ansible",
@@ -382,7 +382,7 @@
             "open_issues": 15,
             "owner": "rapid7",
             "repo": "hackazon",
-            "stars": 1039,
+            "stars": 1040,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -522,7 +522,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6047,
+            "stars": 6049,
             "topics": [
               "ctf",
               "exploitation",
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:56:14.475Z",
+    "last_updated": "2026-09-16T01:46:24.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
