@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -213,7 +213,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13672,
+            "stars": 13675,
             "topics": [
               "dvwa",
               "hacking",
@@ -333,7 +333,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8323,
+            "stars": 8327,
             "topics": [
               "active-directory",
               "ansible",
@@ -403,7 +403,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3096,
+            "stars": 3097,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -438,7 +438,7 @@
             "open_issues": 14,
             "owner": "CSPF-Founder",
             "repo": "JavaVulnerableLab",
-            "stars": 277,
+            "stars": 278,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -589,7 +589,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5842,
+            "stars": 5844,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -727,7 +727,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:46:24.435Z",
+    "last_updated": "2026-09-17T01:49:54.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -739,7 +739,7 @@
       "open_issues": 8,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4673,
+      "stars": 4676,
       "topics": []
     },
     "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
