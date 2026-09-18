@@ -1,54 +1,12 @@
 {
   "items": [
     {
-      "description": "If you would like to support this project, you can make a donation through PayPal:\nDon't forget to give this repo a ✨ STAR!\nẠ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́\nẠ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́",
+      "description": "[!IMPORTANT] Every site in this list is 100% free, legal, and safe to practice on. Each entry is tagged with a category emoji and a difficulty badge ( / / ).\nUse the categories legend below or to jump to what you need.",
       "items": [
         {
           "node_type": "item",
-          "title": "AzureGoat",
-          "description": "AzureGoat : A Damn Vulnerable Azure Infrastructure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
-            "homepage": null,
-            "id": 523055206,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2024-10-30T06:37:46Z",
-            "open_issues": 6,
-            "owner": "ine-labs",
-            "repo": "AzureGoat",
-            "stars": 967,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "BodgeIt Store",
-          "description": "The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing. ",
-            "homepage": null,
-            "id": 32089788,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2024-08-13T15:45:54Z",
-            "open_issues": 17,
-            "owner": "psiinon",
-            "repo": "bodgeit",
-            "stars": 287,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Commix testbed",
-          "description": "A collection of web pages, vulnerable to command injection flaws.",
+          "description": "🌐 🟡 A collection of web pages, vulnerable to command injection flaws.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -68,29 +26,8 @@
         },
         {
           "node_type": "item",
-          "title": "CryptOMG",
-          "description": "CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.",
-            "homepage": null,
-            "id": 4629924,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2015-06-25T17:23:48Z",
-            "open_issues": 0,
-            "owner": "SpiderLabs",
-            "repo": "CryptOMG",
-            "stars": 194,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Damn Small Vulnerable Web",
-          "description": "Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports the majority of (most popular) web application vulnerabilities together with appropriate attacks.",
+          "description": "🌐 🟡 Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports the majority of (most popular) web application vulnerabilities together with appropriate attacks.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +48,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Hybrid Mobile App",
-          "description": "Damn Vulnerable Hybrid Mobile App (DVHMA) is a hybrid mobile app (for Android) that intentionally contains vulnerabilities.",
+          "description": "🌐 🟢 Damn Vulnerable Hybrid Mobile App (DVHMA) is a hybrid mobile app (for Android) that intentionally contains vulnerabilities.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -136,29 +73,8 @@
         },
         {
           "node_type": "item",
-          "title": "Damn Vulnerable Router Firmware",
-          "description": "The goal of this project is to simulate a real-world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Damn Vulnerable Router Firmware Project",
-            "homepage": null,
-            "id": 49921504,
-            "language": "HTML",
-            "license": null,
-            "last_commit": "2021-04-07T22:27:40Z",
-            "open_issues": 6,
-            "owner": "praetorian-inc",
-            "repo": "DVRF",
-            "stars": 722,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Damn Vulnerable Stateful Web App",
-          "description": "Short and simple vulnerable PHP web application that naïve scanners found to be perfectly safe.",
+          "description": "🌐 🟡 Short and simple vulnerable PHP web application that naïve scanners found to be perfectly safe.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -179,7 +95,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Thick Client App",
-          "description": "DVTA is a Vulnerable Thick Client Application developed in C# .NET with many vulnerabilities.",
+          "description": "🌐 🟡 DVTA is a Vulnerable Thick Client Application developed in C# .NET with many vulnerabilities.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,7 +116,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Web App",
-          "description": "Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.",
+          "description": "🌐 🟢 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +129,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13675,
+            "stars": 13681,
             "topics": [
               "dvwa",
               "hacking",
@@ -229,7 +145,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Web Services",
-          "description": "Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real-world web service vulnerabilities.",
+          "description": "🌐 🟡 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real-world web service vulnerabilities.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -250,7 +166,7 @@
         {
           "node_type": "item",
           "title": "Damn Vulnerable Web Sockets",
-          "description": "Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.",
+          "description": "🌐 🟡 Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -278,7 +194,7 @@
         {
           "node_type": "item",
           "title": "Damnvulnerable.me",
-          "description": "A deliberately vulnerable modern-day app with lots of DOM-related bugs.",
+          "description": "🌐 🟡 A deliberately vulnerable modern-day app with lots of DOM-related bugs.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -298,57 +214,8 @@
         },
         {
           "node_type": "item",
-          "title": "DIVA Android",
-          "description": "Damn Insecure and vulnerable App for Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "DIVA Android - Damn Insecure and vulnerable App for Android",
-            "homepage": null,
-            "id": 49703655,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2023-05-19T21:04:24Z",
-            "open_issues": 13,
-            "owner": "payatu",
-            "repo": "diva-android",
-            "stars": 1144,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GOAD (Game Of Active Directory)",
-          "description": "GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "game of active directory",
-            "homepage": null,
-            "id": 410808925,
-            "language": "PowerShell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-03-12T06:57:44Z",
-            "open_issues": 152,
-            "owner": "Orange-Cyberdefense",
-            "repo": "GOAD",
-            "stars": 8327,
-            "topics": [
-              "active-directory",
-              "ansible",
-              "infrastructure-as-code",
-              "pentest",
-              "terraform",
-              "vagrant"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Hackademic",
-          "description": "Offers realistic scenarios full of known vulnerabilities (especially, of course, the OWASP Top Ten) for those trying to practice their attack skills.",
+          "description": "🌐 🟡 Offers realistic scenarios full of known vulnerabilities (especially, of course, the OWASP Top Ten) for those trying to practice their attack skills.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -369,7 +236,7 @@
         {
           "node_type": "item",
           "title": "Hackazon",
-          "description": "A modern vulnerable web app.",
+          "description": "🌐 🟡 A modern vulnerable web app.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -389,43 +256,8 @@
         },
         {
           "node_type": "item",
-          "title": "HackSys Extreme Vulnerable Driver",
-          "description": "HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux",
-            "homepage": "https://hacksys.io",
-            "id": 36424832,
-            "language": "C",
-            "license": "GPL-3.0",
-            "last_commit": "2025-02-24T12:19:16Z",
-            "open_issues": 14,
-            "owner": "hacksysteam",
-            "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3097,
-            "topics": [
-              "buffer-overflow",
-              "driver",
-              "exploit-development",
-              "exploitation",
-              "hevd",
-              "info-leak",
-              "kernel",
-              "linux",
-              "memory-corruption",
-              "type-confusion",
-              "uaf",
-              "vulnerabilities",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Java Vulnerable Lab",
-          "description": "Vulnerable Java based Web Application.",
+          "description": "🌐 🟡 Vulnerable Java based Web Application.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -445,117 +277,8 @@
         },
         {
           "node_type": "item",
-          "title": "Magical Code Injection Rainbow",
-          "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
-            "homepage": null,
-            "id": 11537216,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2020-08-07T12:44:10Z",
-            "open_issues": 1,
-            "owner": "SpiderLabs",
-            "repo": "MCIR",
-            "stars": 446,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Metasploitable 3",
-          "description": "Metasploitable3 is a VM that is built from the ground up with a large number of security vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.",
-            "homepage": null,
-            "id": 66874942,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2025-02-13T14:49:38Z",
-            "open_issues": 74,
-            "owner": "rapid7",
-            "repo": "metasploitable3",
-            "stars": 5708,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OWASP GoatDroid",
-          "description": "OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "*This project is no longer maintained* OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. The project currently includes two applications: FourGoats, a location-based social network, and Herd Financial, a mobile banking application. There are also several feature that greatly simplify usage within a training environment or for absolute beginners who want a good introduction to working with the Android platform. Download the built version here: https://github.com/jackMannino/OWASP-GoatDroid-Project/downloads",
-            "homepage": null,
-            "id": 3612375,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2014-07-29T01:13:15Z",
-            "open_issues": 11,
-            "owner": "nvisium-jack-mannino",
-            "repo": "OWASP-GoatDroid-Project",
-            "stars": 256,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RPISEC/MBE",
-          "description": "Modern Binary Exploitation Course materials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Course materials for Modern Binary Exploitation by RPISEC",
-            "homepage": null,
-            "id": 37784277,
-            "language": "C",
-            "license": "BSD-2-Clause",
-            "last_commit": "2021-12-09T17:20:50Z",
-            "open_issues": 11,
-            "owner": "RPISEC",
-            "repo": "MBE",
-            "stars": 6049,
-            "topics": [
-              "ctf",
-              "exploitation",
-              "wargame"
-            ]
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RPISEC/Malware",
-          "description": "Malware Analysis Course materials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Course materials for Malware Analysis by RPISEC",
-            "homepage": null,
-            "id": 49282041,
-            "language": null,
-            "license": null,
-            "last_commit": "2022-08-26T22:56:18Z",
-            "open_issues": 1,
-            "owner": "RPISEC",
-            "repo": "Malware",
-            "stars": 4071,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T07:07:46.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "SentinelTestbed",
-          "description": "Vulnerable website. Used to test sentinel features.",
+          "description": "🌐 🟡 Vulnerable website. Used to test sentinel features.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -576,7 +299,7 @@
         {
           "node_type": "item",
           "title": "SQLI labs",
-          "description": "SQLI labs to test error based, Blind boolean based, Time based.",
+          "description": "🌐 🟢 SQLI labs to test error based, Blind boolean based, Time based.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -589,7 +312,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5844,
+            "stars": 5846,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -597,7 +320,7 @@
         {
           "node_type": "item",
           "title": "Sqlilabs",
-          "description": "Lab set-up for learning SQL Injection Techniques.",
+          "description": "🌐 🟢 Lab set-up for learning SQL Injection Techniques.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -623,7 +346,7 @@
         {
           "node_type": "item",
           "title": "Stanford SecuriBench / Securibench Micro",
-          "description": "Stanford SecuriBench / Securibench Micro is a series of small test cases designed to excercise different parts of a static security analyzer. Each test case in Securibench Micro comes with an answer, which simplifies the comparison process.",
+          "description": "🌐 🟡 Stanford SecuriBench / Securibench Micro is a series of small test cases designed to excercise different parts of a static security analyzer. Each test case in Securibench Micro comes with an answer, which simplifies the comparison process.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -644,7 +367,7 @@
         {
           "node_type": "item",
           "title": "Vulnerable Node",
-          "description": "A very vulnerable web site written in NodeJS to explore various vulnerabilities.",
+          "description": "🌐 🟡 A very vulnerable web site written in NodeJS to explore various vulnerabilities.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +380,7 @@
             "open_issues": 5,
             "owner": "cr0hn",
             "repo": "vulnerable-node",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "common-vulnerabilities",
               "dvwa",
@@ -675,7 +398,7 @@
         {
           "node_type": "item",
           "title": "WackoPicko",
-          "description": "WackoPicko is a vulnerable web application used to test web application vulnerability scanners.",
+          "description": "🌐 🟡 WackoPicko is a vulnerable web application used to test web application vulnerability scanners.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -696,7 +419,7 @@
         {
           "node_type": "item",
           "title": "XVWA",
-          "description": "XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.",
+          "description": "🌐 🟡 XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -721,13 +444,352 @@
             ]
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CryptOMG",
+          "description": "🔐 🟡 CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.",
+            "homepage": null,
+            "id": 4629924,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2015-06-25T17:23:48Z",
+            "open_issues": 0,
+            "owner": "SpiderLabs",
+            "repo": "CryptOMG",
+            "stars": 195,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AzureGoat",
+          "description": "🔍 🟡 AzureGoat : A Damn Vulnerable Azure Infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+            "homepage": null,
+            "id": 523055206,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2024-10-30T06:37:46Z",
+            "open_issues": 6,
+            "owner": "ine-labs",
+            "repo": "AzureGoat",
+            "stars": 967,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BodgeIt Store",
+          "description": "🔍 🟢 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing. ",
+            "homepage": null,
+            "id": 32089788,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2024-08-13T15:45:54Z",
+            "open_issues": 17,
+            "owner": "psiinon",
+            "repo": "bodgeit",
+            "stars": 287,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Damn Vulnerable Router Firmware",
+          "description": "🔍 🔴 The goal of this project is to simulate a real-world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The Damn Vulnerable Router Firmware Project",
+            "homepage": null,
+            "id": 49921504,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2021-04-07T22:27:40Z",
+            "open_issues": 6,
+            "owner": "praetorian-inc",
+            "repo": "DVRF",
+            "stars": 722,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GOAD (Game Of Active Directory)",
+          "description": "🔍 🟡 GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "game of active directory",
+            "homepage": null,
+            "id": 410808925,
+            "language": "PowerShell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-03-12T06:57:44Z",
+            "open_issues": 152,
+            "owner": "Orange-Cyberdefense",
+            "repo": "GOAD",
+            "stars": 8331,
+            "topics": [
+              "active-directory",
+              "ansible",
+              "infrastructure-as-code",
+              "pentest",
+              "terraform",
+              "vagrant"
+            ]
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HackSys Extreme Vulnerable Driver",
+          "description": "🔍 🔴 HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux",
+            "homepage": "https://hacksys.io",
+            "id": 36424832,
+            "language": "C",
+            "license": "GPL-3.0",
+            "last_commit": "2025-02-24T12:19:16Z",
+            "open_issues": 14,
+            "owner": "hacksysteam",
+            "repo": "HackSysExtremeVulnerableDriver",
+            "stars": 3095,
+            "topics": [
+              "buffer-overflow",
+              "driver",
+              "exploit-development",
+              "exploitation",
+              "hevd",
+              "info-leak",
+              "kernel",
+              "linux",
+              "memory-corruption",
+              "type-confusion",
+              "uaf",
+              "vulnerabilities",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP MASTG Crackmes",
+          "description": "🔍 🟡 🆕 NEW — A set of reverse-engineering and cracking challenges for Android and iOS apps, maintained by the OWASP Mobile Application Security (MAS) project to accompany the MASTG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+            "homepage": "http://mas.owasp.org/",
+            "id": 69648386,
+            "language": "Python",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-09-17T11:55:59Z",
+            "open_issues": 236,
+            "owner": "OWASP",
+            "repo": "mastg",
+            "stars": 13185,
+            "topics": [
+              "android",
+              "android-application",
+              "compliancy-checklist",
+              "dynamic-analysis",
+              "hacking",
+              "ios",
+              "ios-app",
+              "mast",
+              "mastg",
+              "mobile-app",
+              "mobile-security",
+              "mstg",
+              "network-analysis",
+              "pentesting",
+              "reverse-engineering",
+              "reverse-enginnering",
+              "runtime-analysis",
+              "static-analysis",
+              "testing-cryptography"
+            ]
+          },
+          "first_seen": "2026-09-18T01:37:50.433Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RPISEC/Malware",
+          "description": "🔍 🔴 Malware Analysis Course materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Course materials for Malware Analysis by RPISEC",
+            "homepage": null,
+            "id": 49282041,
+            "language": null,
+            "license": null,
+            "last_commit": "2022-08-26T22:56:18Z",
+            "open_issues": 1,
+            "owner": "RPISEC",
+            "repo": "Malware",
+            "stars": 4069,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Magical Code Injection Rainbow",
+          "description": "🎯 🟡 The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.",
+            "homepage": null,
+            "id": 11537216,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2020-08-07T12:44:10Z",
+            "open_issues": 1,
+            "owner": "SpiderLabs",
+            "repo": "MCIR",
+            "stars": 446,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CloudGoat (AWS)",
+          "description": "☁️ 🟡 🆕 NEW — A deliberately vulnerable AWS infrastructure by Rhino Security Labs for learning cloud-pentesting techniques; spins up vulnerable scenarios you can attack and tear down.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CloudGoat is Rhino Security Labs' \"Vulnerable by Design\" AWS deployment tool",
+            "homepage": null,
+            "id": 141209050,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-04-28T13:43:43Z",
+            "open_issues": 23,
+            "owner": "RhinoSecurityLabs",
+            "repo": "cloudgoat",
+            "stars": 3731,
+            "topics": []
+          },
+          "first_seen": "2026-09-18T01:37:50.433Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DIVA Android",
+          "description": "📱 🟢 Damn Insecure and vulnerable App for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DIVA Android - Damn Insecure and vulnerable App for Android",
+            "homepage": null,
+            "id": 49703655,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2023-05-19T21:04:24Z",
+            "open_issues": 13,
+            "owner": "payatu",
+            "repo": "diva-android",
+            "stars": 1144,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OWASP GoatDroid",
+          "description": "📱 🟢 OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "*This project is no longer maintained* OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. The project currently includes two applications: FourGoats, a location-based social network, and Herd Financial, a mobile banking application. There are also several feature that greatly simplify usage within a training environment or for absolute beginners who want a good introduction to working with the Android platform. Download the built version here: https://github.com/jackMannino/OWASP-GoatDroid-Project/downloads",
+            "homepage": null,
+            "id": 3612375,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2014-07-29T01:13:15Z",
+            "open_issues": 11,
+            "owner": "nvisium-jack-mannino",
+            "repo": "OWASP-GoatDroid-Project",
+            "stars": 256,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Metasploitable 3",
+          "description": "🖥️ 🟡 Metasploitable3 is a VM that is built from the ground up with a large number of security vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.",
+            "homepage": null,
+            "id": 66874942,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2025-02-13T14:49:38Z",
+            "open_issues": 74,
+            "owner": "rapid7",
+            "repo": "metasploitable3",
+            "stars": 5708,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RPISEC/MBE",
+          "description": "🧰 🔴 Modern Binary Exploitation Course materials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Course materials for Modern Binary Exploitation by RPISEC",
+            "homepage": null,
+            "id": 37784277,
+            "language": "C",
+            "license": "BSD-2-Clause",
+            "last_commit": "2021-12-09T17:20:50Z",
+            "open_issues": 11,
+            "owner": "RPISEC",
+            "repo": "MBE",
+            "stars": 6049,
+            "topics": [
+              "ctf",
+              "exploitation",
+              "wargame"
+            ]
+          },
+          "first_seen": "2026-08-28T07:07:46.386Z"
         }
       ],
-      "title": "Support"
+      "title": "🚀 The Sites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:49:54.675Z",
+    "last_updated": "2026-09-18T01:37:50.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -735,16 +797,16 @@
       "id": 78006975,
       "language": null,
       "license": "MIT",
-      "last_commit": "2024-07-02T03:39:39Z",
-      "open_issues": 8,
+      "last_commit": "2026-09-17T07:49:09Z",
+      "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4676,
+      "stars": 4677,
       "topics": []
     },
-    "original_repository_sha": "cc4a51028de1f2dc44c96b6004c721260b698c8e",
+    "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
     "enhanced_repository": "enhansome/enhansome-cyber-skills",
     "enhanced_repository_description": null,
-    "title": "awesome-cyber-skills with stars"
+    "title": "🛡️ awesome-cyber-skills with stars"
   }
 }
