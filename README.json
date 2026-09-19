@@ -129,7 +129,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13681,
+            "stars": 13685,
             "topics": [
               "dvwa",
               "hacking",
@@ -312,7 +312,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5846,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -432,7 +432,7 @@
             "open_issues": 6,
             "owner": "s4n7h0",
             "repo": "xvwa",
-            "stars": 1764,
+            "stars": 1765,
             "topics": [
               "application-security",
               "knowledge",
@@ -604,8 +604,8 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-17T11:55:59Z",
-            "open_issues": 236,
+            "last_commit": "2026-09-18T19:46:51Z",
+            "open_issues": 239,
             "owner": "OWASP",
             "repo": "mastg",
             "stars": 13185,
@@ -691,7 +691,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3731,
+            "stars": 3730,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -754,7 +754,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5708,
+            "stars": 5710,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -775,7 +775,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6049,
+            "stars": 6050,
             "topics": [
               "ctf",
               "exploitation",
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:37:50.433Z",
+    "last_updated": "2026-09-19T01:42:01.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -801,7 +801,7 @@
       "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4677,
+      "stars": 4680,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
