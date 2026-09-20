@@ -15,12 +15,19 @@
             "id": 38447681,
             "language": "PHP",
             "license": null,
-            "last_commit": "2026-09-14T17:10:28Z",
+            "last_commit": "2026-09-19T10:42:31Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
             "stars": 182,
-            "topics": []
+            "topics": [
+              "bug-bounty",
+              "commandinjection",
+              "open-source",
+              "pentesting",
+              "testbed",
+              "training"
+            ]
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
         },
@@ -129,7 +136,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13685,
+            "stars": 13691,
             "topics": [
               "dvwa",
               "hacking",
@@ -179,7 +186,7 @@
             "open_issues": 4,
             "owner": "interference-security",
             "repo": "DVWS",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "mysql",
               "owasp",
@@ -545,7 +552,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8331,
+            "stars": 8341,
             "topics": [
               "active-directory",
               "ansible",
@@ -573,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3095,
+            "stars": 3098,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -608,7 +615,7 @@
             "open_issues": 239,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13185,
+            "stars": 13186,
             "topics": [
               "android",
               "android-application",
@@ -691,7 +698,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3730,
+            "stars": 3732,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -775,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6050,
+            "stars": 6051,
             "topics": [
               "ctf",
               "exploitation",
@@ -789,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:42:01.270Z",
+    "last_updated": "2026-09-20T01:43:49.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
