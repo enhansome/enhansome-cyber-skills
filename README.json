@@ -136,7 +136,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13691,
+            "stars": 13696,
             "topics": [
               "dvwa",
               "hacking",
@@ -549,10 +549,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-03-12T06:57:44Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8341,
+            "stars": 8357,
             "topics": [
               "active-directory",
               "ansible",
@@ -611,11 +611,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-18T19:46:51Z",
+            "last_commit": "2026-09-20T18:05:55Z",
             "open_issues": 239,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13186,
+            "stars": 13189,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4069,
+            "stars": 4070,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -719,7 +719,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1144,
+            "stars": 1145,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:43:49.585Z",
+    "last_updated": "2026-09-21T01:45:04.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4680,
+      "stars": 4683,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
