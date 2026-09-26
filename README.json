@@ -68,7 +68,7 @@
             "open_issues": 0,
             "owner": "logicalhacking",
             "repo": "DVHMA",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "android",
               "cordova",
@@ -136,7 +136,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13721,
+            "stars": 13726,
             "topics": [
               "dvwa",
               "hacking",
@@ -165,7 +165,7 @@
             "open_issues": 0,
             "owner": "snoopysecurity",
             "repo": "dvws",
-            "stars": 459,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -277,7 +277,7 @@
             "open_issues": 14,
             "owner": "CSPF-Founder",
             "repo": "JavaVulnerableLab",
-            "stars": 278,
+            "stars": 277,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -340,7 +340,7 @@
             "open_issues": 1,
             "owner": "himadriganguly",
             "repo": "sqlilabs",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "learning-sql-injection",
               "php",
@@ -489,7 +489,7 @@
             "open_issues": 6,
             "owner": "ine-labs",
             "repo": "AzureGoat",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 150,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8374,
+            "stars": 8377,
             "topics": [
               "active-directory",
               "ansible",
@@ -612,10 +612,10 @@
             "language": "Python",
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-09-20T18:05:55Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13200,
+            "stars": 13205,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4069,
+            "stars": 4070,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -698,7 +698,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3736,
+            "stars": 3737,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -716,7 +716,7 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2023-05-19T21:04:24Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "payatu",
             "repo": "diva-android",
             "stars": 1145,
@@ -761,7 +761,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5715,
+            "stars": 5719,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6052,
+            "stars": 6051,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T01:58:25.651Z",
+    "last_updated": "2026-09-26T02:04:01.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4692,
+      "stars": 4693,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
