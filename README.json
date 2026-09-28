@@ -14,12 +14,12 @@
             "homepage": null,
             "id": 38447681,
             "language": "PHP",
-            "license": null,
-            "last_commit": "2026-09-19T10:42:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-27T09:37:05Z",
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "bug-bounty",
               "commandinjection",
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5846,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 150,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8382,
+            "stars": 8384,
             "topics": [
               "active-directory",
               "ansible",
@@ -580,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3100,
+            "stars": 3101,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -615,7 +615,7 @@
             "open_issues": 243,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13208,
+            "stars": 13209,
             "topics": [
               "android",
               "android-application",
@@ -698,7 +698,7 @@
             "open_issues": 23,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3738,
+            "stars": 3739,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:55:27.788Z",
+    "last_updated": "2026-09-28T02:01:20.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4695,
+      "stars": 4697,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
