@@ -552,7 +552,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8407,
+            "stars": 8408,
             "topics": [
               "active-directory",
               "ansible",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:23:49.825Z",
+    "last_updated": "2026-10-03T04:42:19.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",

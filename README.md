@@ -14,13 +14,13 @@
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&label=STARS)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&label=FORKS)](https://github.com/joe-shenouda/awesome-cyber-skills/network/members) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Last commit](https://img.shields.io/github/last-commit/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=git)](https://github.com/joe-shenouda/awesome-cyber-skills/commits/master) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Commit activity](https://img.shields.io/github/commit-activity/m/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/commits/master) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Contributors](https://img.shields.io/github/contributors/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Open issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/issues) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![Open PRs](https://img.shields.io/github/issues-pr/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/pulls) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
+[![Stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&label=STARS)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers)
+[![Forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&label=FORKS)](https://github.com/joe-shenouda/awesome-cyber-skills/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=git)](https://github.com/joe-shenouda/awesome-cyber-skills/commits/master)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors)
+[![Open issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/pulls)
 
 </div>
 
@@ -59,7 +59,7 @@ This list compiles websites that offer various opportunities to practice your cy
 * 🧭 Others encourage **self-directed exploration**
 * 🔄 The list is **regularly updated** — bookmark it or watch for new sites
 
-If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17.
+If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
 
 ## 🗂️ Categories
 
@@ -144,7 +144,7 @@ Use the categories legend below or `Ctrl+F` to jump to what you need.
 |  49 | [Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)                                                                                 |    🔍    |     🟡     | Free online cyber security Massive Open Online Courses (MOOCS).                                                                                                                                                                                                                                                                                                                                                     |
 |  50 | [Damn Vulnerable Router Firmware](https://github.com/praetorian-inc/DVRF) ⚠️ Archived                                                                       |    🔍    |     🔴     | The goal of this project is to simulate a real-world environment to help people learn about other CPU architectures outside of the x86\_64 space. This project will also help people get into discovering new things about hardware.                                                                                                                                                                                |
 |  51 | [Dareyourmind](https://web.archive.org/web/20170618221231/http://www.dareyourmind.net/)                                                                     |    🔍    |     🟡     | Online game, hacker challenge (mirror archive).                                                                                                                                                                                                                                                                                                                                                                     |
-|  52 | [GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,407 \| 🐛 152 \| 🌐 PowerShell \| 📅 2026-03-12                          |    🔍    |     🟡     | GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.                                                                                                                                                                                                                           |
+|  52 | [GOAD (Game Of Active Directory)](https://github.com/Orange-Cyberdefense/GOAD) ⭐ 8,408 \| 🐛 152 \| 🌐 PowerShell \| 📅 2026-03-12                          |    🔍    |     🟡     | GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.                                                                                                                                                                                                                           |
 |  53 | [Google Gruyere](http://google-gruyere.appspot.com/)                                                                                                        |    🔍    |     🟢     | Labs that cover how an application can be attacked using common web security vulnerabilities, like cross-site scripting vulnerabilities (XSS) and cross-site request forgery (XSRF). Also, you can find labs how to find, fix, and avoid these common vulnerabilities and other bugs that have a security impact, such as denial-of-service, information disclosure, or remote code execution.                      |
 |  54 | [HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver/) ⭐ 3,103 \| 🐛 14 \| 🌐 C \| 📅 2025-02-24               |    🔍    |     🔴     | HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.                                                                                                                                                                                                                                      |
 |  55 | [Microcorruption CTF](https://microcorruption.com/login)                                                                                                    |    🔍    |     🟡     | Challenge: given a debugger and a device, find an input that unlocks it. Solve the level with that input.                                                                                                                                                                                                                                                                                                           |
@@ -236,11 +236,11 @@ Special thanks to all the people who have contributed to this list:
 ## 🤝 Contributing
 
 > \[!IMPORTANT]
-> Contributions are welcome! See [CONTRIBUTING.md](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17 for guidelines.
+> Contributions are welcome! See [CONTRIBUTING.md](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING) for guidelines.
 
-[![Contribute](https://img.shields.io/badge/Contribute-Guidelines-blue?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/pulls) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
-[![GitHub issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/issues) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
+[![Contribute](https://img.shields.io/badge/Contribute-Guidelines-blue?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/issues)
 
 ## 🗺️ Roadmap
 
@@ -263,7 +263,7 @@ This list is actively maintained. Here is what is done and what is on the horizo
 
 If you found this list useful, please consider starring the repository and sharing it with others who might benefit. It helps the project grow and reach more people who want to learn security safely.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&color=gold\&label=Star%20this%20repo)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers) ⭐ 4,705 | 🐛 0 | 📅 2026-09-17
+[![GitHub Repo stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge\&logo=github\&color=gold\&label=Star%20this%20repo)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoeyShenouda?style=for-the-badge\&logo=twitter\&color=1DA1F2\&label=Follow%20%40JoeyShenouda)](https://twitter.com/JoeyShenouda)
 
