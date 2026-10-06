@@ -136,7 +136,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13772,
+            "stars": 13775,
             "topics": [
               "dvwa",
               "hacking",
@@ -552,7 +552,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8433,
+            "stars": 8436,
             "topics": [
               "active-directory",
               "ansible",
@@ -615,7 +615,7 @@
             "open_issues": 241,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13222,
+            "stars": 13224,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4213,
+            "stars": 4212,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6060,
+            "stars": 6059,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:21:56.661Z",
+    "last_updated": "2026-10-06T11:00:26.240Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 0,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4713,
+      "stars": 4714,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
