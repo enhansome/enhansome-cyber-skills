@@ -136,7 +136,7 @@
             "open_issues": 7,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13800,
+            "stars": 13802,
             "topics": [
               "dvwa",
               "hacking",
@@ -273,8 +273,8 @@
             "id": 28911199,
             "language": "Java",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-02T04:12:07Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-09T21:52:02Z",
+            "open_issues": 15,
             "owner": "CSPF-Founder",
             "repo": "JavaVulnerableLab",
             "stars": 278,
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5849,
+            "stars": 5848,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8450,
+            "stars": 8454,
             "topics": [
               "active-directory",
               "ansible",
@@ -580,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3103,
+            "stars": 3105,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -611,11 +611,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-01T18:27:28Z",
+            "last_commit": "2026-10-10T02:01:53Z",
             "open_issues": 242,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13232,
+            "stars": 13235,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4399,
+            "stars": 4461,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -698,7 +698,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3751,
+            "stars": 3752,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -719,7 +719,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1151,
+            "stars": 1152,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -758,10 +758,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2025-02-13T14:49:38Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5735,
+            "stars": 5739,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6062,
+            "stars": 6063,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:09:24.284Z",
+    "last_updated": "2026-10-10T02:48:47.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 1,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4718,
+      "stars": 4719,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
