@@ -132,11 +132,11 @@
             "id": 9791525,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T14:10:48Z",
+            "last_commit": "2026-10-18T17:11:33Z",
             "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13857,
+            "stars": 13860,
             "topics": [
               "dvwa",
               "hacking",
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5858,
+            "stars": 5863,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -531,7 +531,7 @@
             "open_issues": 6,
             "owner": "praetorian-inc",
             "repo": "DVRF",
-            "stars": 720,
+            "stars": 721,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 152,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8496,
+            "stars": 8503,
             "topics": [
               "active-directory",
               "ansible",
@@ -580,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3113,
+            "stars": 3114,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -615,7 +615,7 @@
             "open_issues": 245,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13260,
+            "stars": 13262,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4518,
+            "stars": 4531,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -761,7 +761,7 @@
             "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5745,
+            "stars": 5746,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:35:14.225Z",
+    "last_updated": "2026-10-19T01:52:31.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 1,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4740,
+      "stars": 4742,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
