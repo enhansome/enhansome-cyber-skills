@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "commixproject",
             "repo": "commix-testbed",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "bug-bounty",
               "commandinjection",
@@ -136,7 +136,7 @@
             "open_issues": 8,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 13935,
+            "stars": 13939,
             "topics": [
               "dvwa",
               "hacking",
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5867,
+            "stars": 5866,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -531,7 +531,7 @@
             "open_issues": 6,
             "owner": "praetorian-inc",
             "repo": "DVRF",
-            "stars": 721,
+            "stars": 720,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 155,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8547,
+            "stars": 8555,
             "topics": [
               "active-directory",
               "ansible",
@@ -611,11 +611,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-26T09:43:16Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-31T20:27:55Z",
+            "open_issues": 247,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13306,
+            "stars": 13307,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4568,
+            "stars": 4570,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -698,7 +698,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3768,
+            "stars": 3771,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -761,7 +761,7 @@
             "open_issues": 73,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5762,
+            "stars": 5765,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6090,
+            "stars": 6092,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:48:03.795Z",
+    "last_updated": "2026-11-01T02:40:37.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 1,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4764,
+      "stars": 4766,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
