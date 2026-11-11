@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "stamparm",
             "repo": "DSVW",
-            "stars": 884,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -115,7 +115,7 @@
             "open_issues": 0,
             "owner": "secvulture",
             "repo": "dvta",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -136,7 +136,7 @@
             "open_issues": 4,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14002,
+            "stars": 14009,
             "topics": [
               "dvwa",
               "hacking",
@@ -186,7 +186,7 @@
             "open_issues": 4,
             "owner": "interference-security",
             "repo": "DVWS",
-            "stars": 364,
+            "stars": 366,
             "topics": [
               "mysql",
               "owasp",
@@ -552,7 +552,7 @@
             "open_issues": 155,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8596,
+            "stars": 8606,
             "topics": [
               "active-directory",
               "ansible",
@@ -580,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3128,
+            "stars": 3131,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -611,11 +611,11 @@
             "id": 69648386,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-07T10:56:48Z",
-            "open_issues": 252,
+            "last_commit": "2026-11-10T11:23:38Z",
+            "open_issues": 254,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13325,
+            "stars": 13331,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4575,
+            "stars": 4576,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -698,7 +698,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3779,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -719,7 +719,7 @@
             "open_issues": 13,
             "owner": "payatu",
             "repo": "diva-android",
-            "stars": 1165,
+            "stars": 1166,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:48:59.182Z",
+    "last_updated": "2026-11-11T03:11:38.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
