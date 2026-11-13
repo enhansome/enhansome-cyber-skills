@@ -136,7 +136,7 @@
             "open_issues": 4,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14020,
+            "stars": 14019,
             "topics": [
               "dvwa",
               "hacking",
@@ -552,7 +552,7 @@
             "open_issues": 155,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8611,
+            "stars": 8616,
             "topics": [
               "active-directory",
               "ansible",
@@ -580,7 +580,7 @@
             "open_issues": 14,
             "owner": "hacksysteam",
             "repo": "HackSysExtremeVulnerableDriver",
-            "stars": 3131,
+            "stars": 3132,
             "topics": [
               "buffer-overflow",
               "driver",
@@ -615,7 +615,7 @@
             "open_issues": 254,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13333,
+            "stars": 13337,
             "topics": [
               "android",
               "android-application",
@@ -698,7 +698,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3780,
+            "stars": 3782,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -761,7 +761,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5784,
+            "stars": 5785,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6101,
+            "stars": 6104,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:23:20.075Z",
+    "last_updated": "2026-11-13T03:39:49.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
