@@ -136,7 +136,7 @@
             "open_issues": 5,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14025,
+            "stars": 14027,
             "topics": [
               "dvwa",
               "hacking",
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5872,
+            "stars": 5874,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -552,7 +552,7 @@
             "open_issues": 155,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8622,
+            "stars": 8625,
             "topics": [
               "active-directory",
               "ansible",
@@ -615,7 +615,7 @@
             "open_issues": 257,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13345,
+            "stars": 13347,
             "topics": [
               "android",
               "android-application",
@@ -698,7 +698,7 @@
             "open_issues": 20,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3787,
+            "stars": 3788,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -761,7 +761,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5786,
+            "stars": 5789,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6104,
+            "stars": 6107,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T03:13:10.397Z",
+    "last_updated": "2026-11-16T03:16:07.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 1,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4789,
+      "stars": 4790,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
