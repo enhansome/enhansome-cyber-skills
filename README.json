@@ -132,11 +132,11 @@
             "id": 9791525,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T17:11:33Z",
+            "last_commit": "2026-11-17T09:29:27Z",
             "open_issues": 5,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14037,
+            "stars": 14049,
             "topics": [
               "dvwa",
               "hacking",
@@ -319,7 +319,7 @@
             "open_issues": 33,
             "owner": "Audi-1",
             "repo": "sqli-labs",
-            "stars": 5875,
+            "stars": 5877,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -549,10 +549,10 @@
             "language": "PowerShell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T22:21:10Z",
-            "open_issues": 155,
+            "open_issues": 154,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8627,
+            "stars": 8630,
             "topics": [
               "active-directory",
               "ansible",
@@ -615,7 +615,7 @@
             "open_issues": 258,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13351,
+            "stars": 13356,
             "topics": [
               "android",
               "android-application",
@@ -656,7 +656,7 @@
             "open_issues": 1,
             "owner": "RPISEC",
             "repo": "Malware",
-            "stars": 4581,
+            "stars": 4583,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -761,7 +761,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5789,
+            "stars": 5790,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -782,7 +782,7 @@
             "open_issues": 11,
             "owner": "RPISEC",
             "repo": "MBE",
-            "stars": 6107,
+            "stars": 6109,
             "topics": [
               "ctf",
               "exploitation",
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:16:34.398Z",
+    "last_updated": "2026-11-18T04:45:13.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
@@ -808,7 +808,7 @@
       "open_issues": 1,
       "owner": "joe-shenouda",
       "repo": "awesome-cyber-skills",
-      "stars": 4795,
+      "stars": 4797,
       "topics": []
     },
     "original_repository_sha": "c0681bf3f0e25490efb5d2f75e503fa9e6427ff8",
