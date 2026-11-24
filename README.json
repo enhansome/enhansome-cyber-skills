@@ -136,7 +136,7 @@
             "open_issues": 5,
             "owner": "digininja",
             "repo": "DVWA",
-            "stars": 14069,
+            "stars": 14076,
             "topics": [
               "dvwa",
               "hacking",
@@ -186,7 +186,7 @@
             "open_issues": 4,
             "owner": "interference-security",
             "repo": "DVWS",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "mysql",
               "owasp",
@@ -552,7 +552,7 @@
             "open_issues": 154,
             "owner": "Orange-Cyberdefense",
             "repo": "GOAD",
-            "stars": 8648,
+            "stars": 8653,
             "topics": [
               "active-directory",
               "ansible",
@@ -615,7 +615,7 @@
             "open_issues": 259,
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13368,
+            "stars": 13373,
             "topics": [
               "android",
               "android-application",
@@ -698,7 +698,7 @@
             "open_issues": 18,
             "owner": "RhinoSecurityLabs",
             "repo": "cloudgoat",
-            "stars": 3793,
+            "stars": 3794,
             "topics": []
           },
           "first_seen": "2026-09-18T01:37:50.433Z"
@@ -761,7 +761,7 @@
             "open_issues": 74,
             "owner": "rapid7",
             "repo": "metasploitable3",
-            "stars": 5796,
+            "stars": 5799,
             "topics": []
           },
           "first_seen": "2026-08-28T07:07:46.386Z"
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T04:05:37.258Z",
+    "last_updated": "2026-11-24T07:07:43.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of hacking environments where you can train your cyber skills legally and safely",
